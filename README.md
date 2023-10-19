@@ -1,1 +1,1 @@
-# CSC671 Group3
+# CSC671 Group Project Group3
